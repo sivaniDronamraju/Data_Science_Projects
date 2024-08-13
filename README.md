@@ -5,7 +5,7 @@ Welcome to my repository of data science projects! This repository showcases my 
 I'm currently pursuing an MS in Data Science and have a passion for leveraging data to derive insights and solve real-world problems. I enjoy tackling challenging data science tasks and continuously learning and improving my skills.
 
 ## Links to the Projects
-Here are some of my projects:
+Here are some of my projects info:
 
 - **Space Weather Analysis**: [View Project](https://github.com/mss423/data602-fall2023/tree/main/assignment-2)
 - **Moneyball Analysis**: [View Project](https://github.com/mss423/data602-fall2023/tree/main/assignment-3)
